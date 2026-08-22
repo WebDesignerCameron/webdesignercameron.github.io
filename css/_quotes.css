@@ -1,0 +1,16 @@
+.quotes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.align {
+    display: inline-block;
+    padding-left: 2pc;
+    border-left: 0.7pc solid grey;
+    margin-left: 5px;
+    font-weight: 450;
+    min-width: 300px;
+}
+.align span {
+    font-weight: 200;
+}

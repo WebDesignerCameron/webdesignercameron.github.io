@@ -1,0 +1,13 @@
+.quickfind h3 {
+    color: white;
+    padding-left: 7px;
+    border-left: 5px solid cyan;
+}
+.quickfind a {
+    display: inline;
+}
+@media screen and (min-width: 600px) {
+    .quickfind a {
+        transform: scale(1.8);
+    }
+}

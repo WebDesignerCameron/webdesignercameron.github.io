@@ -1,0 +1,21 @@
+footer {
+    background-color: #0d0c0d;
+    color: white;
+    margin-top: 15px;
+    padding: 10px;
+}
+footer a {
+    text-decoration: none;
+    color: grey;
+}
+footer a:hover {
+    color: white;
+}
+footer a:visited {
+    text-decoration: underline;
+}
+footer nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2pc;
+}

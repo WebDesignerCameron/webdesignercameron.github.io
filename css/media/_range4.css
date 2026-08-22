@@ -1,0 +1,26 @@
+@media screen and (min-width: 1001px) {
+    .l1 {
+        display: inline-block;
+    }
+    .logo .title {
+        display: inline-block;
+        font-size: 1.3rem;
+    }
+    .logo .skinny {
+        display: inline-block;
+    }
+    .l2 {
+        display: inline-block;
+        min-width: 250px;
+        max-width: 90%;
+    }
+    .l3 {
+        display: inline-block;
+    }
+    .intro h1 {
+        font-size: 5rem;
+    }
+    .skills {
+        height: 50vh;
+    }
+}
