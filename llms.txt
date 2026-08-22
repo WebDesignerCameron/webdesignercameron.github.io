@@ -1,0 +1,9 @@
+# WebDesignerCameron Main
+
+> Digital creation, exploration, and frontend innovation by WebDesignerCameron.
+
+## Core Projects
+- [Magimals Toxic](https://webdesignercameron.github.io/magimals-toxic) - A browser-based RPG monster-catching and tactical strategy game.
+- [Learning Log](https://webdesignercameron.github.io/ll2) - Log your learning 
+- [Services](https://webdesignercameron.github.io/) - Modern, fast web engineering.
+- [Journal](https://webdesignercameron.github.io/journal) - Personal updates and developer logs.
