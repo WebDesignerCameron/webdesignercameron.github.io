@@ -1,7 +1,7 @@
 /* Base Style */
-@import "./_body.css";
-@import "./_header.css";
-@import "./_footer.css";
-@import "./_sections.css";
+@import "./body.css";
+@import "./header.css";
+@import "./footer.css";
+@import "./sections.css";
 /* Media Exceptions */
-@import "./_query.css";
+@import "./query.css";
