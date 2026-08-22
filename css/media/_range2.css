@@ -1,0 +1,22 @@
+@media screen and (min-width: 380px) and (max-width: 600px) {
+    .l1 {
+        display: block;
+    }
+    .logo .title {
+        display: inline-block;
+    }
+    .logo .skinny {
+        display: inline-block;
+    }
+    .l2 {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .skills {
+        height: 180vh;
+    }
+    .contentcase article {
+        width: 360px;
+    }
+}
