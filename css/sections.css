@@ -1,5 +1,5 @@
-@import "./_quotes.css";
-@import "./sections/_intro.css";
-@import "./sections/_links.css";
-@import "./sections/_socials.css";
-@import "./sections/_skills.css";
+@import "./quotes.css";
+@import "./sections/intro.css";
+@import "./sections/links.css";
+@import "./sections/socials.css";
+@import "./sections/skills.css";
