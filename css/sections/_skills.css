@@ -1,0 +1,31 @@
+.skills {
+    height: 90vh;
+    background-color: black;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+.skills .title {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    font-size: 1.7rem;
+    margin: 30px;
+    font-weight: 500;
+}
+.skills .contentcase {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.contentcase article {
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    text-align: center;
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    min-height: 10vh;
+    max-height: 20vh;
+}
