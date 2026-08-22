@@ -1,0 +1,26 @@
+@media screen and (max-width: 379px) {
+    .l1 {
+        display: block;
+    }
+    .logo .title {
+        display: block;
+        font-size: 1.15rem;
+    }
+    .logo .skinny {
+        display: block;
+    }
+    .l2 {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .intro h2 {
+        font-size: 3.5rem;
+    }
+    .skills {
+        height: 190vh;
+    }
+    .contentcase article {
+        width: 270px;
+    }
+}
