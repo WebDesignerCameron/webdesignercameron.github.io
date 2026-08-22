@@ -1,0 +1,14 @@
+/* TEAM */
+Chef / Developer: WebDesignerCameron
+Site: https://github.io
+Stack: HTML5, CSS3, JavaScript, Vue.js, React, Pug, SCSS
+Location: Manchester, UK
+
+/* THANKS */
+The open-source community
+The developers behind Vue.js CDNs
+
+/* SITE */
+Last update: 2026-08-22
+Standards: Semantic HTML, Responsive Web Design
+Software: Git, GitHub Pages
