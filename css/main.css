@@ -1,0 +1,7 @@
+/* Base Style */
+@import "./partials/_body.css";
+@import "./partials/_header.css";
+@import "./partials/_footer.css";
+@import "./partials/_sections.css";
+/* Media Exceptions */
+@import "./partials/_query.css";
