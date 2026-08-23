@@ -3,8 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
-html {
-    scroll-behaviour: smooth;
+html, body {
+    scroll-behavior: smooth !important;
 }
 body {
     width: 100%;
