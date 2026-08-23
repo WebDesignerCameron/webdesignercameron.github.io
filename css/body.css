@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+html {
+    scroll-behaviour: smooth;
+}
 body {
     width: 100%;
     font-family: 'Verdana', 'Geneva', 'Calibri', sans-serif;
