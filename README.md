@@ -107,3 +107,12 @@ badge:
 <code>
 ![Made by WebDesignerCameron](https://cdn.jsdelivr.net/gh/WebDesignerCameron/src@main/projects/shared/assets/svg/made_by.svg) 
 </code>
+<br>
+<h2>Terminal</h2>
+Usually I hate mobile terminal but I found this app called Termux
+that can allow me to bridge the gap between now and when I get
+a proper computer.
+<h2>OS</h2>
+My favourite OS is Ubuntu. Whilst I don't own a computer now,
+I have worked with Ubuntu in the past, and it's so clean and
+easy to work with. 
